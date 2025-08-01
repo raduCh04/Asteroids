@@ -3,7 +3,7 @@
 #include <raylib.h>
 #include <stdint.h>
 
-constexpr uint32_t kMaxEntities = 0xFF;
+constexpr uint32_t kMaxEntities = 0xFFF;
 
 enum { PLAYER_ID = 0 };
 
